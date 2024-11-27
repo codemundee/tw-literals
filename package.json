@@ -14,6 +14,11 @@
     "template literals",
     "template strings"
 	],
+  "files": [
+		"dist",
+		"!dist/**/*.test.*",
+		"!dist/**/*.spec.*"
+	],
   "type": "module",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
