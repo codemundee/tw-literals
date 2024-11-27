@@ -2,6 +2,12 @@
   "name": "tw-literals",
   "version": "0.0.1",
   "description": "tailwindcss class utility",
+  "author": "Code Mun Dee",
+	"license": "MIT",
+  "bugs": {
+		"url": "https://github.com/codemundee/tw-literals/issues"
+	},
+	"homepage": "https://github.com/codemundee/tw-literals#readme",
   "keywords": [
 		"tailwindcss",
     "css",
